@@ -22,6 +22,7 @@ In the pre-analysis phase, early exploration of the 2014 sales dataset revealed 
 - Specific product categories appear to dominate revenue, likely due to stronger customer preference or higher unit prices.
 - Some orders show longer gaps between order and shipment dates, indicating potential processing or inventory delays.
 - Payment types may correlate with larger transactions, though this requires further confirmation.
+
 **Preliminary Recommendations:**
 - Improve fulfillment speed in regions or periods with long order-to-shipment delays to enhance customer satisfaction.
 - Review and optimize the shipping cost structure, especially for categories consistently linked with high fees.
@@ -39,6 +40,7 @@ In the pre-analysis phase, early exploration of the 2014 sales dataset revealed 
 - Most transactions fall in lower revenue brackets, with transaction frequency decreasing as order value increases.
 - Beverages dominate as the top product category, whereas Canned Meat performs the poorest, showing a large revenue gap between category extremes.
 - December and Q4 record the highest sales, while February is the weakest month, confirming strong seasonal patterns.
+
 **Comparison with Initial Findings:**
 - Early assumptions about strong product categories, high-performing regions, and top salespersons were confirmed through deeper analysis.
 - Some surprising insights emerged: a few regions with fewer transactions still produced high revenue due to premium purchases, and certain low-priced categories generated strong revenue through volume.
@@ -55,6 +57,7 @@ A consolidated dashboard provides a clear overview of how product categories, re
 - Introduce bundling, cross-selling, or volume discounts to increase average transaction value, as most sales fall in lower revenue brackets.
 - Develop seasonal sales plans and inventory forecasting aligned with revenue peaks and dips.
 - Focus on building relationships with high-value customers while exploring growth opportunities in low-performing accounts.
+
 **Optimizations / Business Decisions:**
 - Allocate marketing and sales resources to low-performing regions, cities, and product categories.
 - Use predictive planning to prepare for high-demand months and mitigate seasonal dips.
