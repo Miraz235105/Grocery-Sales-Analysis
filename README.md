@@ -70,4 +70,5 @@ The analysis shows that revenue is concentrated in top-performing regions, citie
 ### References
 Tools Used: Microsoft Excel (Pivot Tables, Charts, Dashboard).
 External Resources: Research and articles on sales analytics, product performance, regional market trends, and customer purchasing behavior; tutorials and documentation for Excel analytical functions.
+
 **Appendices:** Additional charts, tables, and raw data snapshots
