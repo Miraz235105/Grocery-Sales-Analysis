@@ -1,4 +1,4 @@
-# Grocery-Sales-Analysis
+# Annual Grocery Sales Analysis 2014
 Every order placed in 2014 left a trail of customers, products, locations, and the salespersons behind each transaction. This analysis pieces together those trails to reveal how the Prestige Group of Companies navigated a year of sales, growth, and shifting customer demand.
 
 <img width="1344" height="598" alt="Dashboard of Prestige Group of Companies&#39; Sales Report for the Year 2014" src="https://github.com/user-attachments/assets/0e7040aa-85b7-4394-96e6-5b3f73e03632" />
